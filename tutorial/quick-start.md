@@ -33,3 +33,10 @@
 ## 帮助
 
 - `C-h k C-f` 显示组合键 `C-f` 的帮助文档
+
+## 搜索
+
+[online reading](https://www.gnu.org/software/emacs/manual/html_node/emacs/Incremental-Search.html#Incremental-Search)
+
+- `C-s` 增量前向搜索
+- `C-r` 增量后向搜索
