@@ -6,3 +6,4 @@ Learn the basics of emacs
 2. [链接](./docs/2.md)
 3. [Emacs Tutorial](./docs/3.md)
 4. [使用 Info](./docs/4.md)
+5. [使用 Org Mode](./docs/5.md)
